@@ -1,1 +1,1 @@
-# ensf337Proj
+# This is a class project for ENSF 337 where I built a flight simulator. It reads a text file that has the flight number, number of rows, and the passenger data (such as name, seat, and phone number). This program displays that information and also allows you to remove and add passengers.
